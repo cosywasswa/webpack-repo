@@ -1,1 +1,1 @@
-# webpack-repo
+# webpack-exercise
